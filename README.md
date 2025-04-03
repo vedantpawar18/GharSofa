@@ -35,46 +35,16 @@ $ cd ..
 
 # Tech-Stack used : 
 
-### Frontend:
-![ReactJS](https://img.shields.io/badge/ReactJS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![NextJS](https://img.shields.io/badge/NextJS-000000?style=for-the-badge&logo=next.js&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  
-![React Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+### **Frontend:**
+![ReactJS](https://img.shields.io/badge/ReactJS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![NextJS](https://img.shields.io/badge/NextJS-000000?style=for-the-badge&logo=next.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![React Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 
-### Backend:
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-43B02A?style=for-the-badge&logo=MongoDB&logoColor=white)  
-![Nodemailer](https://img.shields.io/badge/Nodemailer-000000?style=for-the-badge&logo=npm&logoColor=white)  
-![AWS SES](https://img.shields.io/badge/AWS%20SES-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)  
-![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+### **Backend:**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-43B02A?style=for-the-badge&logo=MongoDB&logoColor=white) ![Nodemailer](https://img.shields.io/badge/Nodemailer-000000?style=for-the-badge&logo=npm&logoColor=white) ![AWS SES](https://img.shields.io/badge/AWS%20SES-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
 
-### Deployment:
-![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)  
-![PM2](https://img.shields.io/badge/PM2-2F353B?style=for-the-badge&logo=pm2&logoColor=white)  
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-
-### Frontend:
-- **ReactJS**
-- **NextJS**
-- **Bootstrap**
-- **React Redux**
-
-### Backend:
-- **Node.js**
-- **Express.js**
-- **MongoDB**
-- **Nodemailer**
-- **AWS SES**
-- **AWS S3**
-
-### Deployment:
-- **AWS EC2**
-- **PM2**
-- **Nginx**
+### **Deployment:**
+![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![PM2](https://img.shields.io/badge/PM2-2F353B?style=for-the-badge&logo=pm2&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 
-# Features 
 # **GharSofa - User Features**
 
 ## **1. Registration & Authentication**
@@ -117,7 +87,6 @@ $ cd ..
 
 
 # **GharSofa - Admin Features**
-
 ## **1. Admin Dashboard**
 - A beautiful, data-driven dashboard with interactive visuals:
   - **Sales Analytics:** Dynamic charts showing sales trends.
