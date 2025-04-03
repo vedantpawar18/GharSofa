@@ -1,6 +1,8 @@
-# EduStream
-EduStream is a platform where users can register and submit relevant links under various categories such as React, PHP, and more. Admins can create categories, and manage links submitted by users. Registered users can add, update, or delete their links, while regular users can view all the links, their click counts, and the trending links. A confirmation email is sent to users upon registration using Nodemailer or AWS SES.
-![Screenshot (814)](https://github.com/user-attachments/assets/d4c85aed-eed4-4c55-85a5-08b448c94fae)
+# GharSofa - Online Furniture Store
+GharSofa is an online platform where users can browse, select, and purchase furniture from a wide range of categories. The platform offers seamless shopping experiences with features like wishlists, carts, multiple payment options, and order tracking.
+![Screenshot 2025-04-03 151858](https://github.com/user-attachments/assets/ebd3c75c-7037-4af7-99f2-13022cb11e92)
+
+
 
 
 # Step to cloning repo
@@ -73,19 +75,87 @@ $ cd ..
 
 
 # Features 
-### Admin Features:
-Create, delete, and update categories (e.g., React, PHP)
-Manage links submitted by users (add, delete, update)
+# **GharSofa - User Features**
 
-### User Features:
-Register and receive confirmation email (via Nodemailer or AWS SES)
-Add, update, or delete links for each category
-View all available links and trending/popular links on the landing page
-See click counts for links
+## **1. Registration & Authentication**
+- Users can sign up and log in securely.
+- Password recovery and account management options.
 
-### User Features:
-Displays trending links along with categories.
-Each category showcases relevant links, including popular and trending ones.
+## **2. Browse Furniture**
+- View the latest furniture collection categorized by types:
+  - Sofas
+  - Beds
+  - Dining Tables
+  - ...and more
+- Product details with:
+  - High-quality images
+  - Detailed descriptions
+  - Dimensions
+  - Pricing information
+
+## **3. Wishlist & Cart**
+- Add products to a **wishlist** for future reference.
+- Add items to the **cart** for easy checkout.
+
+## **4. Ordering & Payment**
+- Place orders with multiple payment options:
+  - **Cash on Delivery (COD)**
+  - **Credit/Debit Cards**
+  - **UPI & Digital Wallets**
+- Secure payment gateway integration for smooth transactions.
+
+## **5. Order Tracking**
+- Track the status of your orders in real-time.
+- Receive notifications for:
+  - Shipping updates
+  - Delivery status
+
+## **6. User Dashboard**
+- View past orders and their details.
+- Monitor current order status.
+- Manage account details efficiently.
+
+
+# **GharSofa - Admin Features**
+
+## **1. Admin Dashboard**
+- A beautiful, data-driven dashboard with interactive visuals:
+  - **Sales Analytics:** Dynamic charts showing sales trends.
+  - **Top Orders:** Product and category-wise top-selling items.
+
+## **2. Product & Category Management**
+- Add, update, or delete products and categories.
+- Manage product details, including:
+  - Descriptions
+  - Images
+  - Prices
+  - Stock availability
+
+## **3. Brand & Offers Management**
+- Add new brands to expand product diversity.
+- Create and manage promotional offers and coupons.
+- Handle discount codes and special campaigns for marketing.
+
+## **4. Order Management**
+- View all incoming orders with detailed information.
+- Update order status, including:
+  - Processing
+  - Shipped
+  - Delivered
+  - Canceled
+
+## **5. User Management**
+- Manage registered user accounts.
+- Monitor user activity and handle customer support requests.
+- View user order history and feedback.
+
+## **6. Reports & Analytics**
+- Generate detailed reports on:
+  - Sales performance
+  - Product popularity
+  - Customer behavior
+- Visualize data through charts and graphs for quick insights.
+
 
 # Pages and Screenshots:
  ## Landing Page:
