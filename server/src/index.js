@@ -3,6 +3,7 @@ import dotenv from "dotenv";
 import cors from "cors";
 import cookieParser from "cookie-parser";
 import connectDB from "./config/connectDB.js";
+import appRoutes from "./routes/apiRoutes.js";
 
 const app = express();
 
@@ -32,6 +33,8 @@ app.use(express.urlencoded({ limit: "10mb", extended: true }));
 app.get("/", (req, res) => {
   res.json({ message: "gharsofa server starts" });
 });
+
+app.use("/api", appRoutes);
 
 app.listen(PORT, () => {
   console.log(`server start running at ${PORT}`);
