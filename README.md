@@ -43,92 +43,35 @@ $ cd ..
 
 ### **Deployment:**  
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) ![Railway](https://img.shields.io/badge/Railway-1C1C1C?style=for-the-badge&logo=railway&logoColor=white)
+# **GharSofa - Features**
+
+## 🚀 User Features
+
+| **Feature**                  | **Details**                               |
+|:-----------------------------|:------------------------------------------|
+| **1. Registration & Authentication** | Secure sign-up & login<br> Password recovery & account management |
+| **2. Browse Furniture**      | Categories: **Sofas, Beds, Dining Tables, etc.**<br> 📸 High-quality images<br> 📝 Descriptions, dimensions & pricing |
+| **3. Wishlist & Cart**       | Save items to **Wishlist**<br> Add products to **Cart** for easy checkout |
+| **4. Ordering & Payment**    | Multiple payment options:<br> 💵 **Cash on Delivery (COD)**<br> 💳 Credit/Debit Cards<br> 📱 UPI & Digital Wallets<br> Secure payment gateway |
+| **5. Order Tracking**        | Real-time order status updates<br> 📦 Notifications for shipping & delivery |
+| **6. User Dashboard**        | View past orders & current status<br> Manage account details |
+
+---
+
+## 🛠️ Admin Features
+
+| **Feature**                  | **Details**                               |
+|:-----------------------------|:------------------------------------------|
+| **1. Admin Dashboard**       | Interactive, data-driven dashboard<br> 📊 **Sales Analytics** & top-selling products |
+| **2. Product & Category Management** | Add, update, or delete products & categories<br> Manage: 🗒️ Descriptions, 📸 Images, 💲 Prices, 📦 Stock |
+| **3. Brand & Offers Management** | Add new brands<br> Create & manage: 🎉 Promotional offers, 🏷️ Coupons, 📢 Discount codes |
+| **4. Order Management**      | View & manage all orders<br> Update statuses: ⏳ Processing, 🚚 Shipped, ✅ Delivered, ❌ Canceled |
+| **5. User Management**       | Manage user accounts<br> Monitor activity & handle support requests<br> View order history & feedback |
+| **6. Reports & Analytics**   | Generate reports on: 💰 Sales performance, 🛒 Product popularity, 👥 Customer behavior<br> Visual data insights with charts & graphs |
 
 
 
-# **GharSofa - User Features**
-
-## **1. Registration & Authentication**
-- Users can sign up and log in securely.
-- Password recovery and account management options.
-
-## **2. Browse Furniture**
-- View the latest furniture collection categorized by types:
-  - Sofas
-  - Beds
-  - Dining Tables
-  - ...and more
-- Product details with:
-  - High-quality images
-  - Detailed descriptions
-  - Dimensions
-  - Pricing information
-
-## **3. Wishlist & Cart**
-- Add products to a **wishlist** for future reference.
-- Add items to the **cart** for easy checkout.
-
-## **4. Ordering & Payment**
-- Place orders with multiple payment options:
-  - **Cash on Delivery (COD)**
-  - **Credit/Debit Cards**
-  - **UPI & Digital Wallets**
-- Secure payment gateway integration for smooth transactions.
-
-## **5. Order Tracking**
-- Track the status of your orders in real-time.
-- Receive notifications for:
-  - Shipping updates
-  - Delivery status
-
-## **6. User Dashboard**
-- View past orders and their details.
-- Monitor current order status.
-- Manage account details efficiently.
-
-
-# **GharSofa - Admin Features**
-## **1. Admin Dashboard**
-- A beautiful, data-driven dashboard with interactive visuals:
-  - **Sales Analytics:** Dynamic charts showing sales trends.
-  - **Top Orders:** Product and category-wise top-selling items.
-
-## **2. Product & Category Management**
-- Add, update, or delete products and categories.
-- Manage product details, including:
-  - Descriptions
-  - Images
-  - Prices
-  - Stock availability
-
-## **3. Brand & Offers Management**
-- Add new brands to expand product diversity.
-- Create and manage promotional offers and coupons.
-- Handle discount codes and special campaigns for marketing.
-
-## **4. Order Management**
-- View all incoming orders with detailed information.
-- Update order status, including:
-  - Processing
-  - Shipped
-  - Delivered
-  - Canceled
-
-## **5. User Management**
-- Manage registered user accounts.
-- Monitor user activity and handle customer support requests.
-- View user order history and feedback.
-
-## **6. Reports & Analytics**
-- Generate detailed reports on:
-  - Sales performance
-  - Product popularity
-  - Customer behavior
-- Visualize data through charts and graphs for quick insights.
-
-
-# Pages and Screenshots:
-## Pages and Screenshots:
+# Pages and Screenshots: 
 
 | **Admin Dashboard**        | **Order Details**        | **Sales Report**          |
 |:--------------------:|:--------------------:|:--------------------:|
